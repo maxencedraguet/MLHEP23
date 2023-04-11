@@ -1,0 +1,9 @@
+numpy
+pandas
+jupyterlab
+matplotlib
+torch 
+torchvision 
+torchaudio
+tensorboard
+
