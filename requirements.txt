@@ -2,9 +2,11 @@ numpy
 pandas
 jupyterlab
 matplotlib
+pytorch-lightning==1.9.4 
+tensorboard
+tensorflow
 torch 
 torchvision 
 torchaudio
-tensorboard
 tqdm
-tensorflow
+
