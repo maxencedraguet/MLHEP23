@@ -2,11 +2,17 @@ numpy
 pandas
 jupyterlab
 matplotlib
-pytorch-lightning==1.9.4 
+pygraphviz      # probably not required
+pytorch-lightning==1.9.4 # probably not required, also quite old
+scikit-learn    # probably not required
+statsmodels     # probably not required
 tensorboard
 tensorflow
 torch 
+torch_geometric # probably not required
+torch-scatter   # probably not required
+torch-sparse    # probably not required
 torchvision 
-torchaudio
+torchaudio      # probably not required
 tqdm
 

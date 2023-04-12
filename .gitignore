@@ -25,6 +25,11 @@ x64/
 x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
+
+#ignore data folder
+Challenge/data/
+*.DS_Store
+
 bld/
 [Bb]in/
 [Oo]bj/
